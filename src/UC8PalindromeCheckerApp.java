@@ -2,7 +2,7 @@
 package AM2;
 import java.util.LinkedList;
 import java.util.Scanner;
-public class PalindromeCheckerApp {
+public class UC8PalindromeCheckerApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
