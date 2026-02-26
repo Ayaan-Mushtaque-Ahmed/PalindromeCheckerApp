@@ -40,6 +40,8 @@ public class PalindromeCheckerApp {
             //This code is executed
 
 
+
+            //goodbye
             scanner.close();
         }
 }
